@@ -4,7 +4,7 @@ Part of Scrimba Web Development Career Path Course project from module 11 React 
 
 ## Tech/Framework objectives
 
-imported node modules:
+dependencies:
 
 - [x] nanoid
 - [x] react-confetti

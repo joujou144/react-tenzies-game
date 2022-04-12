@@ -2,7 +2,20 @@
 
 Part of Scrimba Web Development Career Path Course project from module 11 React Basics
 
+## Tech/Framework objectives
+
+imported node modules:
+
+- [x] nanoid
+- [x] react-confetti
+
+methods:
+- [x] React.useState
+- [x] React.useEffect
+
+
 ## Demo
+
 
 ### Getting Started with Create React App
 
